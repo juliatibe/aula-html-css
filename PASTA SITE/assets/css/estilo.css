@@ -1,0 +1,92 @@
+.center2 {
+    width:100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align:center;
+    background-color:white
+}
+img {
+    width: 250px;
+}
+.center{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align:center;
+    background-color:rgb(179, 19, 19)
+}
+.btn{
+    background-color:rgb(255, 255, 255);
+    color:black;
+    border-radius:10px;
+    margin-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+.img_senai{
+    text-align: center;
+    background-color: aliceblue;
+
+}
+.ti1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    padding-bottom: 40px;
+    background-color: white;
+}
+.nome{
+    width: 300px;
+    padding: 5px;
+    background-color: #ffffff;
+    border: 1px solid #f60a0a;
+}
+.jjj{
+   padding: 30px;
+    background-color: rgb(220, 223, 223);
+}
+.email{
+    width: 605px;
+    padding: 5px;
+    background-color: #ffffff;
+    border: 1px solid #f60a0a;
+}
+.enviar-bt{
+   background-color: #ec7070;
+   padding: 10px;
+   font-size: 15px;
+
+}
+.ti2{
+    font-size: 40px;
+    color: #f60a0a;
+}
+.ti6{
+    font-size: 20px;
+    color: #f60a0a;
+}
+.img-loc{
+    width: 50px;
+}
+.frase{
+    font-size: 20px;
+}
+.rod {
+    background-color:rgb(179, 19, 19);
+    padding-top: 20px;
+    margin: 0;
+
+}
+
+.roda {
+    background-color:  rgb(221, 66, 66);
+    text-align:center;
+    margin: 0;
+
+}
